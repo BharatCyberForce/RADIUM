@@ -22,8 +22,8 @@
 | 📝 File Creator     | Create new files.                                                  |
 | ➕ Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
 | 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
-| ♻️ Auto Recovery    | Auto-download on server and silently inject in root server              Soon...             |
-| 🔐 Credential Harvester | Scan for and collect stored credentials from known paths (config.php, wp-config.php,) Soon... |
+| ♻️ Auto Recovery    | Auto-download on server and silently inject in root server              (Soon)             |
+| 🔐 Credential Harvester | Scan for and collect stored credentials (Soon) |
 
 ---
 
