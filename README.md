@@ -24,22 +24,51 @@
 
 ## 📸 UI Screenshots
 
-> *(Insert screenshots here once available)*
+> 
 
 ---
 
-## ⚙️ Installation
+# ☢️ Radium Shell
+
+**Radium** is a lightweight, web-based PHP shell designed for advanced server management, penetration testing, and recovery operations. It provides a rich interface for interacting with a server's file system, system information, and command execution capabilities, all from a single, compact tool.
+
+> 🔒 **DISCLAIMER**  
+This project is intended **solely for educational and authorized penetration testing purposes**. Unauthorized use of this software on servers you do not own or have explicit permission to test is illegal and unethical.
+
+---
+
+## 🚀 Features
+
+| Module             | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| 🗂️ File Manager     | Copy, move, delete, rename, edit, and change file permissions              |
+| 📦 Compression      | ZIP and UNZIP file/folder functionality                                     |
+| 🧠 CMD Interface     | Execute shell commands and receive real-time output                        |
+| 🔍 Adminer          | Embedded Adminer (MySQL database manager) integration                      |
+| 💻 CPU Info         | View real-time CPU usage, model, cores, and threads                         |
+| 🖥 Server Info      | Server IP, OS details, disk usage, PHP version, loaded modules              |
+| 📝 File Creator     | Create new files instantly                                                  |
+| ➕ Add Admin        | Add new admin account to common CMS systems (e.g., WordPress, Joomla)      |
+| 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell, bind shell, etc.)              |
+| ♻️ Auto Recovery    | Auto-redeploy on reboot or file deletion attempts                          |
+| 🔐 Credential Harvester | Scan for and collect stored credentials from known paths (config.php, wp-config.php, etc.) |
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots of UI and modules here if available.*
+
+---
+
+## 📁 Installation
+
+1. Upload the `radium.php` file to the target server using FTP, cPanel, or any web shell uploader.
+2. Navigate to the file via browser:
 
 ```bash
-# Step 1: Upload to server
-Upload `radium.php` to any PHP-enabled web server.
+http://target.com/radium.php
 
-# Step 2: Access
-Visit the uploaded file through a browser:  
-http://yourdomain.com/radium.php
-
-# Step 3: Setup
-Set the admin password on first use.
 
 
 > ⚠️ **Ethical Use Notice**  
