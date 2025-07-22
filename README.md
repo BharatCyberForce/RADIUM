@@ -17,7 +17,7 @@
 | Compression      | ZIP and UNZIP file/folder functionality                                     |
 | CMD Interface     | Execute shell commands and receive real-time output                        |
 | Adminer          | Embedded Adminer (MySQL database manager)                      |
-| CPU Info         | View real-time CPU usage, model, cores, and threads                         |
+| CPU Info         | View CPU usage, model, cores, and threads                         |
 | Server Info      | Server IP, OS details, disk usage, PHP version              |
 | File Creator     | Create new files.                                                  |
 | Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
