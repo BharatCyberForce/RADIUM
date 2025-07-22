@@ -16,20 +16,20 @@
 | 🗂️ File Manager     | Copy, move, delete, rename, edit, and change file permissions              |
 | 📦 Compression      | ZIP and UNZIP file/folder functionality                                     |
 | 🧠 CMD Interface     | Execute shell commands and receive real-time output                        |
-| 🔍 Adminer          | Embedded Adminer (MySQL database manager) integration                      |
+| 🔍 Adminer          | Embedded Adminer (MySQL database manager)                      |
 | 💻 CPU Info         | View real-time CPU usage, model, cores, and threads                         |
 | 🖥 Server Info      | Server IP, OS details, disk usage, PHP version, loaded modules              |
-| 📝 File Creator     | Create new files instantly                                                  |
-| ➕ Add Admin        | Add new admin account to common CMS systems (e.g., WordPress, Joomla)      |
-| 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell, bind shell, etc.)              |
-| ♻️ Auto Recovery    | Auto-redeploy on reboot or file deletion attempts                          |
-| 🔐 Credential Harvester | Scan for and collect stored credentials from known paths (config.php, wp-config.php, etc.) |
+| 📝 File Creator     | Create new files.                                                  |
+| ➕ Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
+| 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
+| ♻️ Auto Recovery    | Auto-download on server and silently inject in root server              Soon...             |
+| 🔐 Credential Harvester | Scan for and collect stored credentials from known paths (config.php, wp-config.php,) Soon... |
 
 ---
 
 ## 📸 Screenshots
 
-*Add screenshots of UI and modules here if available.*
+**
 
 ---
 
@@ -37,4 +37,4 @@
 
 
 > 🔒 **DISCLAIMER**  
-This project is intended **solely for educational and authorized penetration testing purposes**. Unauthorized use of this software on servers you do not own or have explicit permission to test is illegal and unethical.
+Clean&Clear Warnning This project is intended **solely for authorized penetration testing purposes**.
