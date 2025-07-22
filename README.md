@@ -6,7 +6,7 @@
 ![Security](https://img.shields.io/badge/security-Ethical%20Use%20Only-critical)
 
 ---
-**Radium** is a web-based PHP shell designed BackD00r for advanced server management. It provides a rich interface for interacting with a server's file system.
+**Radium** is a web-based PHP shell designed for advanced server management. It provides a rich interface for interacting with a server's file system.
 ---
 
 ## 🚀 Features
@@ -18,7 +18,7 @@
 | 🧠 CMD Interface     | Execute shell commands and receive real-time output                        |
 | 🔍 Adminer          | Embedded Adminer (MySQL database manager)                      |
 | 💻 CPU Info         | View real-time CPU usage, model, cores, and threads                         |
-| 🖥 Server Info      | Server IP, OS details, disk usage, PHP version, loaded modules              |
+| 🖥 Server Info      | Server IP, OS details, disk usage, PHP version              |
 | 📝 File Creator     | Create new files.                                                  |
 | ➕ Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
 | 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
