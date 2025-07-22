@@ -9,21 +9,21 @@
 **Radium** is a web-based PHP shell designed for advanced server management. It provides a rich interface for interacting with a server's file system.
 ---
 
-## 🚀 Features
+## Features
 
 | Module             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
-| 🗂️ File Manager     | Copy, move, delete, rename, edit, and change file permissions              |
-| 📦 Compression      | ZIP and UNZIP file/folder functionality                                     |
-| 🧠 CMD Interface     | Execute shell commands and receive real-time output                        |
-| 🔍 Adminer          | Embedded Adminer (MySQL database manager)                      |
-| 💻 CPU Info         | View real-time CPU usage, model, cores, and threads                         |
-| 🖥 Server Info      | Server IP, OS details, disk usage, PHP version              |
-| 📝 File Creator     | Create new files.                                                  |
-| ➕ Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
-| 👁 Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
-| ♻️ Auto Recovery    | Auto-download on server and silently inject in root server              (Soon)             |
-| 🔐 Credential Harvester | Scan for and collect stored credentials (Soon) |
+| File Manager     | Copy, move, delete, rename, edit, and change file permissions              |
+| Compression      | ZIP and UNZIP file/folder functionality                                     |
+| CMD Interface     | Execute shell commands and receive real-time output                        |
+| Adminer          | Embedded Adminer (MySQL database manager)                      |
+| CPU Info         | View real-time CPU usage, model, cores, and threads                         |
+| Server Info      | Server IP, OS details, disk usage, PHP version              |
+| File Creator     | Create new files.                                                  |
+| Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
+| Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
+| Auto Recovery    | Auto-download on server and silently inject in root server              (Soon)             |
+| Credential Harvester | Scan for and collect stored credentials (Soon) |
 
 ---
 
