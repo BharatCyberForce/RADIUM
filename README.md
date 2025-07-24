@@ -6,7 +6,7 @@
 ![Security](https://img.shields.io/badge/security-Ethical%20Use%20Only-critical)
 
 ---
-**Radium** is a web-based PHP shell designed for advanced server management. It provides a rich interface for interacting with a server's file system.
+**Radium** is a Web Based PHP Shell designed for Advanced Server Management. It Provides a Rich Interface For Interacting With A Server File System.
 ---
 
 ## Features
