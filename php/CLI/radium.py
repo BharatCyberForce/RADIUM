@@ -175,8 +175,8 @@ def main():
                 break
             elif command == 'help':
                 print(f"\n{COLOR_INFO}Commands:{COLOR_RESET}")
-                print(f"  {Fore.WHITE}<command>                 : Run remote command.")
-                print(f"  {Fore.WHITE}cd <directory>            : Change remote directory.")
+                print(f"  {Fore.WHITE}<command>                 : Run Shell Command.")
+                print(f"  {Fore.WHITE}cd <directory>            : Change Directory.")
                 print(f"  {Fore.WHITE}upload <local> <remote>   : Upload file.")
                 print(f"                               Example: upload home/evilinux/Desktop/pkmkb.txt /var/www/pkmkb.txt")
                 print(f"  {Fore.WHITE}download <remote> <local> : Download file.")
