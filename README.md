@@ -14,7 +14,7 @@
 | Module             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | File Manager     | Copy, move, delete, rename, edit, and change file permissions              |
-| Compression      | ZIP and UNZIP file/folder functionality                                     |
+| Compression      | ZIP and UNZIP file and folder                                    |
 | CMD Interface     | Execute shell commands and receive real-time output                        |
 | Adminer          | Embedded Adminer (MySQL database manager)                      |
 | CPU Info         | View CPU usage, model, cores, and threads                         |
@@ -22,7 +22,7 @@
 | File Creator     | Create new files.                                                  |
 | Add Admin        | Add new admin account to common CMS systems (Now only available for WordPress)      |
 | Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
-| Auto Recovery    | Auto-download on server and silently inject in root server              (Soon)             |
+| Auto Recovery    | Auto-download on server and silently inject in server              (Soon)             |
 | Credential Harvester | Scan for and collect stored credentials (Soon) |
 
 ---
