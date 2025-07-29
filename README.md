@@ -54,7 +54,7 @@ Radium Shell has been tested against the following **server security suites** an
 | **ImunifyAV (Lite)**             | ✅ Bypassed     | Payload not detected     (Without obfuscate bypassed)                                          |
 | **ModSec Rules**                 | ✅ Bypassed     | Custom payloads not flagged during upload     (Without obfuscate bypassed)                     |
 
-Remember: Mostly security bypassed without obfuscate but did not bypassed with obfuscate (because we used publicly available obfuscation.)
+Remember: Mostly security bypassed without obfuscate but did not bypassed after obfuscate (because we used publicly available obfuscation.)
 
 ---
 
