@@ -9,6 +9,19 @@
 **Radium** is a Web Based PHP Shell designed for Advanced Server Management. It Provides a Rich Interface For Interacting With A Server File System.
 ---
 
+
+## ✅ Tested On
+
+- ✅ **PHP Versions:** 5.6, 7.0–7.4, 8.0–8.3
+- ✅ **Web Servers:** Apache2, Nginx, LiteSpeed etc,etc.
+- ✅ **CMS Compatibility:** WordPress (5.x–6.x)
+- ✅ **Bypass
+  
+> ⚙️ *Minimum PHP:* `5.6`  
+> 🧩 *Recommended:* PHP `7.4+`
+
+
+
 ## Features
 
 | Module             | Description                                                                 |
@@ -24,6 +37,24 @@
 | Backdoor Uploader| Upload persistent backdoors (reverse shell)              |
 | Auto Recovery    | Auto-download on server and silently inject in server              (Soon)             |
 | Credential Harvester | Scan for and collect stored credentials (Soon) |
+
+
+## 🛡️ Security Software / WAFs Bypassed
+
+Radium Shell has been tested against the following **server security suites** and **WAFs**. Where possible, payloads and commands were successfully executed or uploaded.
+
+| Software / WAF                  | Bypass Status | Notes                                                              |
+|----------------------------------|----------------|--------------------------------------------------------------------|
+| **Imunify360**                   | ✅ Bypassed     | Without obfuscate bypassed                                         |
+| **ModSecurity (OWASP CRS)**      | ✅ Bypassed     | Payload evasion and encoding bypass rule sets (Without obfuscate bypassed)                      |
+| **CSF / LFD**                    | ✅ Bypassed     | No alerts                                                          |
+| **cPanel Hardened PHP**          | ✅ Partial      | Works unless all exec functions disabled                           |
+| **Wordfence (WordPress)**        | ✅ Bypassed     | Fully bypassed                           |
+| **All-In-One WP Security**       | ✅ Bypassed     | File uploads succeeded         (Without obfuscate bypassed)       |
+| **ImunifyAV (Lite)**             | ✅ Bypassed     | Payload not detected     (Without obfuscate bypassed)                                          |
+| **ModSec Rules**                 | ✅ Bypassed     | Custom payloads not flagged during upload     (Without obfuscate bypassed)                     |
+
+Remember: Mostly security bypassed without obfuscate but did not bypassed with obfuscate (because we used publicly available obfuscation.)
 
 ---
 
