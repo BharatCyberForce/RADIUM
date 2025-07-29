@@ -39,7 +39,7 @@
 | Credential Harvester | Scan for and collect stored credentials (Soon) |
 
 
-## 🛡️ Security Software / WAFs Bypassed
+## 🛡️ Security Software / WAFs Bypassed / Security Plugins
 
 Radium Shell has been tested against the following **server security suites** and **WAFs**. Where possible, payloads and commands were successfully executed or uploaded.
 
