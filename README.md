@@ -30,6 +30,37 @@
 ## 📸 Screenshots
 
 **
+### Filemanager
+![Main Page Of Sh3ll](img/main.png)
+Browse directories, edit files, set permissions, and compress folders.
+
+
+### Server Info
+![Server Info](img/serverinfo.png)
+Displays Server Information.
+
+### CPU Info
+![CPU Info](img/cpuinfo.png)
+Displays CPU model, core/thread usage.
+
+### Terminal Page
+![Terminal Interface](img/terminal.png)
+Run shell commands & real-time outputs.
+
+### File Creator
+![File Creator](img/createnewfile.png)
+Create new files.
+
+### Processing
+![Processing Info](img/processing.png)
+Display Information About Runing Applications in Background.
+
+
+### Bulk
+![Bulk](img/bulk.png)
+Bulk Deletion/Copy/Zip/Unzip.
+
+
 
 ---
 
