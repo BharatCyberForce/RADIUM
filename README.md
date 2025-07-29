@@ -32,7 +32,7 @@
 **
 ### Filemanager
 ![Main Page Of Sh3ll](img/main.png)
-Browse directories, edit files, set permissions, and compress folders.
+Upload Files, Edit Files, Set Permissions,Delete.
 
 
 ### Server Info
