@@ -74,7 +74,7 @@ Displays Server Information.
 ![CPU Info](img/cpuinfo.png)
 Displays CPU model, core/thread usage.
 
-### Terminal Page
+### Terminal
 ![Terminal Interface](img/terminal.png)
 Run shell commands & real-time outputs.
 
