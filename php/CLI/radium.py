@@ -1,5 +1,5 @@
 #Name: Radium
-#Tool Type: Executor
+#Tool Type:Shell Executor
 #Coded bY Indian Cyber Force
 
 import requests
@@ -111,7 +111,7 @@ def download_file(target, remote_path, local_path, auth_key):
     except Exception as e:
         return f"{COLOR_ERROR}Download error: {e}{COLOR_RESET}"
 
-def print_banner():
+def icfbanner():
     banner = f"""{Fore.MAGENTA}{Style.BRIGHT}
 _______________________________________________________________
 |                                                              |
@@ -140,7 +140,7 @@ def main():
     global AUTH_KEY
     AUTH_KEY = args.key
 
-    print_banner()
+    icfbanner()
 
     cwd = "/"
 
