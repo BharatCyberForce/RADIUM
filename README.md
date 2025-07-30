@@ -17,8 +17,8 @@
 - ✅ **CMS Compatibility:** WordPress (5.x–6.x)
 - ✅ **Bypass
   
-> ⚙️ *Minimum PHP:* `5.6`  
-> 🧩 *Recommended:* PHP `7.4+`
+> *Minimum PHP:* `5.6`  
+> *Recommended:* PHP `7.4+`
 
 
 
