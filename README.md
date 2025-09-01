@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/bharatcyberforce/RADIUM/">
   <img src="img/logo.png" alt="Radium Logo" width="96" height="96">
   </a>
 </p>
