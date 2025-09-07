@@ -1,6 +1,5 @@
 <p align="center">
   <img src="img/logo.png" alt="Radium Logo" width="96" height="96">
-  </a>
 </p>
 
 # ⚛️ Radium Shell
@@ -19,7 +18,7 @@
 
 - ✅ **PHP Versions:** 5.6, 7.0–7.4, 8.0–8.3
 - ✅ **Web Servers:** Apache2, Nginx, LiteSpeed etc,etc.
-- ✅ **Bypass
+- ✅ **Bypass**
   
 > *Minimum PHP:* `5.6`  
 > *Recommended:* PHP `7.4+`
