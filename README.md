@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo.png" alt="Radium Logo" width="96" height="96">
+  <img src="img/logo.png" width="150" height="150">
 </p>
 
 # ⚛️ Radium Shell
