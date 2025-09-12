@@ -51,7 +51,6 @@ Radium Shell has been tested against the following **server security suites** an
 | **Imunify360**                   | ✅ Bypassed     | Without obfuscate bypassed                                         |
 | **ModSecurity (OWASP CRS)**      | ✅ Bypassed     | Payload evasion and encoding bypass rule sets (Without obfuscate bypassed)                      |
 | **CSF / LFD**                    | ✅ Bypassed     | No alerts                                                          |
-| **cPanel Hardened PHP**          | ✅ Partial      | Works unless all exec functions disabled                           |
 | **Wordfence (WordPress)**        | ✅ Bypassed     | Fully bypassed                           |
 | **All-In-One WP Security**       | ✅ Bypassed     | File uploads succeeded         (Without obfuscate bypassed)       |
 | **ImunifyAV (Lite)**             | ✅ Bypassed     | Payload not detected     (Without obfuscate bypassed)                                          |
