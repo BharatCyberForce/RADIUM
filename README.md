@@ -2,7 +2,7 @@
   <img src="img/logo.png" width="150" height="150">
 </p>
 
-# ⚛️ Radium Shell
+# Radium Shell
 
 ![PHP](https://img.shields.io/badge/PHP-Enabled-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
@@ -14,11 +14,11 @@
 ---
 
 
-## ✅ Tested On
+## Tested On
 
-- ✅ **PHP Versions:** 5.6, 7.0–7.4, 8.0–8.3
-- ✅ **Web Servers:** Apache2, Nginx, LiteSpeed etc,etc.
-- ✅ **Bypass**
+- **PHP Versions:** 5.6, 7.0–7.4, 8.0–8.3
+- **Web Servers:** Apache2, Nginx, LiteSpeed etc,etc.
+- **Bypass**
   
 > *Minimum PHP:* `5.6`  
 > *Recommended:* PHP `7.4+`
@@ -42,7 +42,7 @@
 | Credential Harvester | Scan for and collect stored credentials (Soon) |
 
 
-## 🛡️ Security Software / WAFs Bypassed / Security Plugins
+## Security Software / WAFs Bypassed / Security Plugins
 
 Radium Shell has been tested against the following **server security suites** and **WAFs**. Where possible, payloads and commands were successfully executed or uploaded.
 
