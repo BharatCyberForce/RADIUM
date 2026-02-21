@@ -19,10 +19,6 @@
 - **PHP Versions:** 5.6, 7.0-7.4, 8.0-8.3
 - **Web Servers:** Apache2, Nginx, LiteSpeed etc,etc.
 - **Bypass**
-  
-> *Minimum PHP:* `5.6`  
-> *Recommended:* PHP `7.4+`
-
 
 
 ## Features
